@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://banner2.cleanpng.com/20180802/ri/509ad35ebb37a47b2030d31859a4f016.webp" group-title="Disney Channel",Disney Channel
-https://kleanembed.online/embed/gT6mA1xL8nU5dY2eR7wB9vH3zQ4pSi
 
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://banner2.cleanpng.com/20180802/ri/509ad35ebb37a47b2030d31859a4f016.webp" group-title="Discovery Channel",Discovery Channel
-https://kleanembed.online/embed/bb49ec4e7a8495c21d2941e9c3e0dd9c
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/cartoon.png" group-title="Cartoon Network",Cartoon Network
-https://kleanembed.online/embed/j7frlCr9theTHiPhistuSPInuchosawE
 
 #EXTINF:-1 tvg-id="97073" tvg-name="MLIVE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MLIVE1.png" group-title="Mediacorp", M LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
