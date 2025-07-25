@@ -1,17 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://todaynews.id/wp-content/uploads/2025/05/IMG-20250530-WA0005.jpg", Vietnam vs Philippines 
+#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://todaynews.id/wp-content/uploads/2025/05/IMG-20250530-WA0005.jpg", AFF U-23 
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19088 
 https://gasruktv.my.id/sakura/drm.php?id=19088&type=dash
-
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://todaynews.id/wp-content/uploads/2025/05/IMG-20250530-WA0005.jpg", Indonesia vs Thailand 
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=18037 
-https://gasruktv.my.id/sakura/drm.php?id=18037&type=dash
 
 
 #EXTINF:-1 group-title="Moji Volley Cup" tvg-logo="https://thumbor.prod.vidiocdn.com/e3QRvUirNjGDs9oZeF677uSAKmw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19176/moji-volley-cup-6f4ba7.jpg", Moji Volley Cup 
