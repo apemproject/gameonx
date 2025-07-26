@@ -44,6 +44,8 @@ https://halu.serv00.net/satu.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
 https://halu.serv00.net/satu.mpd?id=18253
+
+
 #EXTINF:-1 tvg-id="97073" tvg-name="MLIVE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MLIVE1.png" group-title="Mediacorp", M LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
@@ -77,13 +79,13 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/54a7a4af051a2835711c41160039a53a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0YTdhNGFmMDUxYTI4MzU3MTFjNDExNjAwMzlhNTNhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzA2ODU0MX0.S0xFQU5FTUJFRA
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-name="E! Entertainment" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/ENT" group-title="NBCUniversal", E!
-https://zekonew.newkso.ru/zeko/premium315/mono.m3u8
+https://ott.udptv.com/stream/nbc/eeast/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="516.astro" tvg-name="CNBC" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/CNB" group-title="NBCUniversal", CNBC
-https://zekonew.newkso.ru/zeko/premium309/mono.m3u8
+https://ott.udptv.org/stream/astro/cnbc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MSNBC" group-title="NBCUniversal", MSNBC
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGQ4YzMwOTdlOTI4LWMxZWItMzdhNC0zN2U3LTIxMWIyZjhk/master.m3u8
@@ -458,55 +460,55 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox/wramespicr0swi
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0M30.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2 New Zealand" tvg-logo="https://i.imgur.com/frYrkmj.png" group-title="Sky Network Television", Sky Sport 2 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImExYjJjM2Q0ZTVmNmE3YjhjOWQwZTFmMmEzYjRjNWQ2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImExYjJjM2Q0ZTVmNmE3YjhjOWQwZTFmMmEzYjRjNWQ2IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3 New Zealand" tvg-logo="https://i.imgur.com/PK0eexe.png" group-title="Sky Network Television", Sky Sport 3 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlOGY5YTBiMWMyZDNlNGY1YTZiN2M4ZDllMGYxYTJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjdlOGY5YTBiMWMyZDNlNGY1YTZiN2M4ZDllMGYxYTJiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0M30.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4 New Zealand" tvg-logo="https://i.imgur.com/6155wmd.png" group-title="Sky Network Television", Sky Sport 4 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImMzZDRlNWY2YTdiOGM5ZDBlMWYyYTNiNGM1ZDZlN2Y4IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0M30.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5 New Zealand" tvg-logo="https://i.imgur.com/RyaVT72.png" group-title="Sky Network Television", Sky Sport 5 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjlhMGIxYzJkM2U0ZjVhNmI3YzhkOWUwZjFhMmIzYzRkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6 New Zealand" tvg-logo="https://i.imgur.com/H6VTSXb.png" group-title="Sky Network Television", Sky Sport 6 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/f1e2d3c4b5a698786543210fedcba987.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYxZTJkM2M0YjVhNjk4Nzg2NTQzMjEwZmVkY2JhOTg3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/f1e2d3c4b5a698786543210fedcba987.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImYxZTJkM2M0YjVhNjk4Nzg2NTQzMjEwZmVkY2JhOTg3IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7 New Zealand" tvg-logo="https://i.imgur.com/vV8LEly.png" group-title="Sky Network Television", Sky Sport 7 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhNmI3YzhkOWUwZjFhMmIzYzRkNWU2ZjdhOGI5YzBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjVhNmI3YzhkOWUwZjFhMmIzYzRkNWU2ZjdhOGI5YzBkIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-name="Sky Sport 8 New Zealand" tvg-logo="https://i.imgur.com/lVtlzFe.png" group-title="Sky Network Television", Sky Sport 8 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-name="Sky Sport 9 New Zealand" tvg-logo="https://i.imgur.com/jMsI0ue.png" group-title="Sky Network Television", Sky Sport 9 New Zealand
 #EXTVLCOPT:http-origin=https://kleanplay.shop
 #EXTVLCOPT:http-referrer=https://kleanplay.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/toolbox-varient/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzQ5ODQxOH0.VEhFT0ZGSUNJQUxLTEVBTkVNQkVES0VZTE1BTw
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjhmOWI2YzJkMWU0YTc4OTBmM2E1YjFjOGQ3ZTZmNGEzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzUyNjg0NH0.P3VjUnVrbFN0OWdV
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/yOWG6iU.png" group-title="TSN", TSN 1
