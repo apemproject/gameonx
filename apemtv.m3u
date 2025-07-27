@@ -1,33 +1,5 @@
 #EXTM3U
 
-
-
-
-#EXTINF:-1 group-title="KESENIAN" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Pembuka
-https://www.dropbox.com/scl/fi/81he1sp6w0olgydgrbr1b/Remo_720p.mp4?rlkey=o0lp0huf16gf7l6cr7qmxmr1y&dl=1
-
-
-
-#EXTINF:-1 group-title="KESENIAN" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Jaipong
-https://www.dropbox.com/scl/fi/9yv9xububr86qamgek57y/TARI-KESER-BOJONG-Jaipongan-Official-Video.mp4?rlkey=gpge4eq5ftrhbbqmrbw4pgsgg&dl=1
-
-
-#EXTINF:-1 group-title="KESENIAN" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Tari Papua
-https://www.dropbox.com/scl/fi/3e9hdcjd7lfhizvx4ptu3/TARI-KREASI-PAPUA-RUMAH-SEJATI.mp4?rlkey=i1abxl60jtpiplqc1mr1af49m&dl=1
-
-
-#EXTINF:-1 group-title="KESENIAN" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Tari margapai
-https://www.dropbox.com/scl/fi/hscenwdag6r9wov3m26l3/Tari-Margapati-video-angkatan-seni-tari-fbs-unnes-2012.mp4?rlkey=8mgvvz6zp55fub7qn2n8u9xk9&dl=1
-
-
-
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 #EXTINF:-1 group-title="Liga Indoneisa" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1489px-BRI_Liga_1.svg.png",Liga 1 Ch 1
@@ -51,9 +23,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="Liga Indoneisa" tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/1489px-BRI_Liga_1.svg.png",Liga 2 Ch 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGrevBC.jpeg" group-title="INDONESIA",TRANS 7
@@ -183,20 +152,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 
 
 
-
-
-
-
-
-
-
-
-
-===============================================================================
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TVRI_Jambi.png" group-title="Daerah", TVRI Jambi
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 
@@ -267,14 +222,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/DsFbavZNkhaDiinzSzhVw5ugvrE=/1280x1280/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4650090/original/033851300_1700048866-Piala_Dunia_U-17_-_Maroko_U-17_Vs_Timnas_Indonesia_U-17_copy.jpg" group-title="TIMNAS MATCH DAY", IDN VS MAR 19:00
 *https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
-
-
-
-
-
-
-
-
 
 
 
