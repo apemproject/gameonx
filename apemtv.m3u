@@ -5,7 +5,7 @@ https://ott.udptv.xyz/stream/astro/beinsports1/master.m3u8?u=cocked&p=dd0abb5272
 
 
 
-#EXTINF:-1 tvg-logo="https://ratastv.co/wp-content/uploads/2025/08/asset-1-1-_x600-800x269.png" group-title="Piala Kemerdekaan", Piala Kemerdekaan
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/944/2025/08/07/202508061156-maincropped_1754456272-419470515.jpg" group-title="Piala Kemerdekaan", Piala Kemerdekaan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -125,6 +125,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 3
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
 
 
 
