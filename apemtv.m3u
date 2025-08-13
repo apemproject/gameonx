@@ -1,1 +1,141 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v_TLXubA1BQ/hq720.jpg?v=6899c5ba&sqp=CODl6sQG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnUtEZEUazqePh2beaXmnSrjf2zw", 2025 Korea Invitational Jinju
+
+
+#EXTINF:-1 tvg-logo="https://ratastv.co/wp-content/uploads/2025/08/asset-1-1-_x600-800x269.png" group-title="Piala Kemerdekaan", Piala Kemerdekaan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fdc5a88c47666bcc98796994817681d:dc923c54b567fa07cdef250915687003
+https://halu.serv00.net/satu.mpd?id=19367
+
+
+
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white", group-title="FIVB Women's U21 World Championship", CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e18c4d5a8fc3c954e6d1fd4df322be7d:fc07b606775bf273442030ef499499d5
+https://halu.serv00.net/satu.mpd?id=19334
+
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cf9458df32f517e640cc402289a07ed:7ccf98589de3e6344573e021e60f844f
+https://halu.serv00.net/satu.mpd?id=19331
+
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a415a818bec376628e77b01eab287cbc:e82c735d88147f55ee3e48fb31730114
+https://halu.serv00.net/satu.mpd?id=19332
+
+
+#EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", CH 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="97078" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 1
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 2
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 3
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 4
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+
+#EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 5
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 1
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 2
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 3
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 4
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 5
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 1
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 2
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 3
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 4
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 5
+https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://motogpofhungary.com/wp-content/uploads/2025/03/Frame-185.png" group-title="MOTOGP 2025-2026", CH 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/FWONK.D-6358a63d.png?t=1720244491" group-title="F1", 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 2
+https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 3
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
