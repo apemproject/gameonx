@@ -1,9 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="AFC Champions League Two" tvg-logo="https://i.namu.wiki/i/CxVINJHhy1Ie_klMhPFDP9wkurLsVHXq8QkUwAQ9MUVDNAoqBpSDwcJxzEFwwQ-MQwaROprc6z7DpsUKBjryTA.svg", AFC Champions League Two
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AX512 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/944/2025/08/07/202508061156-maincropped_1754456272-419470515.jpg" group-title="Piala Kemerdekaan", Piala Kemerdekaan
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/el9bDqkjufJ43oDM6XXrrjeSmVc=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/630/piala-kemerdekaan-56590a.png" group-title="Piala Kemerdekaan", Piala Kemerdekaan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -123,6 +129,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 3
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
 
 
 
