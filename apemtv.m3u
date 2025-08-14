@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="AFC Champions League Two" group-title="AFC Champions League Two" tvg-logo="https://i.imgur.com/3HP7w5f.png",AFC Champions League Two
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="AFC Champions League Two" group-title="AFC Champions League Two" tvg-logo="https://i.namu.wiki/i/CxVINJHhy1Ie_klMhPFDP9wkurLsVHXq8QkUwAQ9MUVDNAoqBpSDwcJxzEFwwQ-MQwaROprc6z7DpsUKBjryTA.svg",AFC Champions League Two
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -129,6 +129,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 3
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
 
 
 
