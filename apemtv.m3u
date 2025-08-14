@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://telegrafi.com/wp-content/uploads/2025/05/psg-ttoenham-780x439.png" group-title="UEFA Super Cup 2025", PSG vs Tottenham
-https://ott.udptv.xyz/stream/astro/beinsports1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
 
@@ -107,7 +105,7 @@ https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp
 
 
 
-#EXTINF:-1 tvg-logo="https://motogpofhungary.com/wp-content/uploads/2025/03/Frame-185.png" group-title="MOTOGP 2025-2026", CH 1
+#EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP 2025-2026", CH 1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
 
 
@@ -125,6 +123,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41-8pnEb1cL.png" group-title="TENIS", CH 3
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
+
 
 
 
