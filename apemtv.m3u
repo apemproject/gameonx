@@ -39,6 +39,11 @@ https://tekoo.web.id/satu.mpd?id=19331
 #KODIPROP:inputstream.adaptive.license_key=a415a818bec376628e77b01eab287cbc:e82c735d88147f55ee3e48fb31730114
 https://tekoo.web.id/satu.mpd?id=19332
 
+#EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP", MOTOGP
+https://s1.strea.ru/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/FWONK.D-6358a63d.png?t=1720244491" group-title="F1", F1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
 #EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -52,12 +57,10 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 1
@@ -103,17 +106,6 @@ https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 5
 https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp4
 
-
-
-#EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP", MOTOGP
-https://s1.strea.ru/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/FWONK.D-6358a63d.png?t=1720244491" group-title="F1", F1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pJbtReekzqQAIUXrMBH1-K261KI=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/625/tennis-47d163.png" group-title="TENNIS", CH 1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2RiNWY4OGU0MWUwLTk5MmEtZDk2NC1jZDM3LTE0Yzg5ZDUz/master.m3u8
 
@@ -127,6 +119,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://tekoo.web.id/satu.mpd?id=6786
+
 
 
 
