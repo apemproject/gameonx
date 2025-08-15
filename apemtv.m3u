@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="AFC Champions League Two" group-title="AFC Champions League Two" tvg-logo="https://i.namu.wiki/i/CxVINJHhy1Ie_klMhPFDP9wkurLsVHXq8QkUwAQ9MUVDNAoqBpSDwcJxzEFwwQ-MQwaROprc6z7DpsUKBjryTA.svg",AFC Champions League Two
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="AFC Champions League Two" group-title="AFC Champions League Two" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png",AFC Champions League Two
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -133,6 +133,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://tekoo.web.id/satu.mpd?id=6786
+
 
 
 
