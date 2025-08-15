@@ -105,22 +105,6 @@ https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp
 
 
 
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 1
-
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 2
-
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 3
-
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 4
-
-
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/04/LIGUE-1-New-Logo-Vector.png" group-title="LIGUE 1 2025-2026", CH 5
-
-
-
 #EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP", MOTOGP
 https://s1.strea.ru/index.m3u8
 
@@ -143,6 +127,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://tekoo.web.id/satu.mpd?id=6786
+
 
 
 
