@@ -52,7 +52,8 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="97078" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
@@ -60,20 +61,30 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 1
-https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 2
-https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier12/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 3
-https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 4
-https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 5
-https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/EPL25INTRO.mp4
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
 
 
 
@@ -133,6 +144,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://tekoo.web.id/satu.mpd?id=6786
+
 
 
 
