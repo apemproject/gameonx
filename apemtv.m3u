@@ -75,9 +75,8 @@ http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPrem
 http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier4/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier5/output/manifest.mpd
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
+
 
 
 
@@ -106,6 +105,7 @@ https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGci
 
 #EXTINF:-1 tvg-logo="https://media.inter.it/jpg/competitions/logo/minimal/2024-25/1.png" group-title="Serie A 2025-2026", CH 3
 https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg3NzgwNTQiLCJjcmVhdGVkX2F0IjoxNzU1MjYyMzE1LCJleHRfZHVyYXRpb24iOjYwMH0.s-SznSQJIZPcWGbQW_vUeluPc-swAQxfmR76Ru4iclA
+
 
 
 
