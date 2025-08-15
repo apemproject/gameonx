@@ -14,7 +14,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fdc5a88c47666bcc98796994817681d:dc923c54b567fa07cdef250915687003
-https://halu.serv00.net/satu.mpd?id=19367
+https://tekoo.web.id/satu.mpd?id=19367
 
 
 
@@ -95,6 +95,17 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Laliga23.png" group-title="LaLiga 2025-2026", CH 5
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8?auth_key=1752224732-f6b5def913107232de8eb3a7311370be-00000000000000000000000000000000-e2c0bec87e3089f0b3655dca2503e661
+
+
+
+#EXTINF:-1 tvg-logo="https://media.inter.it/jpg/competitions/logo/minimal/2024-25/1.png" group-title="Serie A 2025-2026", CH 1
+https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg3NzgwNTQiLCJjcmVhdGVkX2F0IjoxNzU1MjYyMzE1LCJleHRfZHVyYXRpb24iOjYwMH0.s-SznSQJIZPcWGbQW_vUeluPc-swAQxfmR76Ru4iclA
+
+#EXTINF:-1 tvg-logo="https://media.inter.it/jpg/competitions/logo/minimal/2024-25/1.png" group-title="Serie A 2025-2026", CH 2
+https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg3NzgwNTQiLCJjcmVhdGVkX2F0IjoxNzU1MjYyMzE1LCJleHRfZHVyYXRpb24iOjYwMH0.s-SznSQJIZPcWGbQW_vUeluPc-swAQxfmR76Ru4iclA
+
+#EXTINF:-1 tvg-logo="https://media.inter.it/jpg/competitions/logo/minimal/2024-25/1.png" group-title="Serie A 2025-2026", CH 3
+https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg3NzgwNTQiLCJjcmVhdGVkX2F0IjoxNzU1MjYyMzE1LCJleHRfZHVyYXRpb24iOjYwMH0.s-SznSQJIZPcWGbQW_vUeluPc-swAQxfmR76Ru4iclA
 
 
 
