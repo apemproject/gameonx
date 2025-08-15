@@ -121,12 +121,11 @@ https://raw.githubusercontent.com/13x11/Channel/refs/heads/main/INTROLALIGA25.mp
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP 2025-2026", CH 1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP", MOTOGP
+https://s1.strea.ru/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/FWONK.D-6358a63d.png?t=1720244491" group-title="F1", CH 1
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/FWONK.D-6358a63d.png?t=1720244491" group-title="F1", F1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
 
@@ -144,6 +143,7 @@ https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb5272
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://tekoo.web.id/satu.mpd?id=6786
+
 
 
 
