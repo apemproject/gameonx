@@ -50,9 +50,10 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://pnghq.com/wp-content/uploads/download-premier-league-logo-white-15537.png" group-title="Premier League 2025-2026", CH 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -109,6 +110,7 @@ https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGci
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/1/15/Bundesliga_logo.svg/1200px-Bundesliga_logo.svg.png" group-title="Bundesliga 2025-2026", CH 1
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/51729c06a74902c275bff19b74b8a892.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjUxNzI5YzA2YTc0OTAyYzI3NWJmZjE5Yjc0YjhhODkyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NTI3OTMyOCwiZXhwIjoxNzU1MjkwMTI4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+
 
 
 
