@@ -26,11 +26,10 @@ https://tekoo.web.id/satu.mpd?id=19367
 https://tekoo.web.id/satu.mpd?id=19334
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/93cMLspu/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H0CwHkmo/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eGMAzQ4w/live.isml/.m3u8
-
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0lv8NIA3/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="MOTOGP", MOTOGP
@@ -113,6 +112,7 @@ https://api.vidio.com/videos/8778054/common_tokenized_playlist.m3u8?ott=eyJhbGci
 
 #EXTINF:-1 tvg-logo="https://www.bundesliga.com/assets/logo/bundesliga_neg.svg" group-title="Bundesliga 2025-2026", CH 1
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/51729c06a74902c275bff19b74b8a892.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjUxNzI5YzA2YTc0OTAyYzI3NWJmZjE5Yjc0YjhhODkyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NTI3OTMyOCwiZXhwIjoxNzU1MjkwMTI4fQ.dCRhM3JFUGE0VDZZbGt1dHVDJG8
+
 
 
 
